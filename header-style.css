@@ -1,0 +1,13 @@
+*{
+    direction: rtl;
+}
+nav{
+    display: flex;
+    background-color: white;
+}
+ul{
+    display: flex;
+}
+ul li{
+    margin: 20px;
+}
