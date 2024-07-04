@@ -7,3 +7,8 @@ video{
     width: 100%;
     border-radius: 9px;
 }
+
+.footer a{
+    text-decoration: none;
+    color: black;
+}
